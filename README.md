@@ -8,7 +8,7 @@ This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS 
 ## Example
 
 - Fully Json compatible
-    {
+-    {
       "name": "ExtraVM",
       "link": "https://extravm.com",
       "category": [
