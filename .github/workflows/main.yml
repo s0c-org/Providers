@@ -22,4 +22,4 @@ jobs:
         schema: "./schema.json"
         # default is ./schema.json
     # One or more relative file paths under the repository (seperated by comma) of the JSON files to validate with the schema provided.
-        json: "providers.json"
+        json: "./providers.json"
