@@ -35,30 +35,6 @@ This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS 
   ]
  }
 ```
-{
-      "name": "ExtraVM",
-      "link": "https://extravm.com",
-      "category": [
-          "vps",
-          "dedicated",
-          "gameserver",
-          "webspace"
-      ],
-      "note": "",
-      "location": [
-          "Dallas, Texas, USA",
-          "Vint Hill, Virginia, USA",
-          "Miami, Florida, USA",
-          "Los Angeles, California, USA",
-          "Beauharnois, Quebec, Canada",
-          "Erith, England, United Kingdom",
-          "Gravelines, Hauts-de-France, France",
-          "Singapore",
-          "Sydney, New South Wales, Australia",
-          "Tokyo, Tokyo, Japan"
-      ]
-  }
-
 
 ## Used By
 
