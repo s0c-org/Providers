@@ -1,7 +1,7 @@
 
 # Provider List
 
-This is a collection of hosting, webspace, DDOS protection, and VPS providers. 
+This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS providers. 
 
 ## Example
 
@@ -11,22 +11,22 @@ This is a collection of hosting, webspace, DDOS protection, and VPS providers.
             "link": "https://extravm.com",
             "category": [
                 "vps",
-                "Game Server",
-                "webspace",
-                "dedicated server"
+                "dedicated",
+                "gameserver",
+                "webspace"
             ],
             "note": "",
             "location": [
-                "USA, Dallas, TX",
-                "USA, Vint Hill",
-                "USA, Miami",
-                "USA Los Angeles",
-                "Montreal, Canada",
-                "United Kingdom",
-                "France",
+                "Dallas, Texas, USA",
+                "Vint Hill, Virginia, USA",
+                "Miami, Florida, USA",
+                "Los Angeles, California, USA",
+                "Beauharnois, Quebec, Canada",
+                "Erith, England, United Kingdom",
+                "Gravelines, Hauts-de-France, France",
                 "Singapore",
-                "Sydney Australia",
-                "Tokyo, Japan"
+                "Sydney, New South Wales, Australia",
+                "Tokyo, Tokyo, Japan"
             ]
         },
 
