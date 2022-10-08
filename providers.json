@@ -20,8 +20,10 @@
             ],
             "note": "",
             "location": [
-                "Germany",
-                "Helsinki"
+                "Falkenstein, Saxony, Germany",
+                "Nuremberg, Bavaria, Germany",
+                "Tuusula, Uusimaa, Finland",
+                "Ashburn, Virginia, USA"    
             ]
         },
         {
@@ -72,7 +74,7 @@
             ],
             "note": "",
             "location": [
-                "germany"
+                "Falkenstein, Saxony, Germany"
             ]
         },
         {
@@ -116,7 +118,7 @@
             ],
             "note": "",
             "location": [
-                "germany"
+                "Germany"
             ]
         },
         {
@@ -129,7 +131,9 @@
         {
             "name": "Jimdo",
             "link": "https://www.jimdo.com/",
-            "category": "",
+            "category": [
+                "webspace"
+            ],
             "note": "",
             "location": []
         },
@@ -212,9 +216,16 @@
         {
             "name": "Spry Servers",
             "link": "https://www.spryservers.net/",
-            "category": "",
+            "category": [
+                "vps",
+                "dedicated",
+                "webspace"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Phoenix, Arizona, USA",
+                "Dallas, Texas, USA"    
+            ]                
         },
         {
             "name": "Squarespace",
@@ -226,9 +237,13 @@
         {
             "name": "Uberspace",
             "link": "https://uberspace.de/",
-            "category": "",
+            "category": [
+                "webspace"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Frankfurt am Main, Hesse, Germany"
+            ]
         },
         {
             "name": "Webdock",
@@ -925,10 +940,20 @@
         },
         {
             "name": "MivoCloud",
-            "link": "",
-            "category": "",
+            "link": "https://mivocloud.com/",
+            "category": [
+                "vps",
+                "dedicated",
+                "webspace"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Chisinau, Chisinau Municipality, Moldova",
+                "Iasi, Iasi, Romania",
+                "Moscow, Moscow, Russia",
+                "Bend, Oregon, USA"
+
+            ]
         },
         {
             "name": "MonsterMedia",
@@ -1023,10 +1048,25 @@
         },
         {
             "name": "Nitrado",
-            "link": "",
-            "category": "",
+            "link": "https://nitrado.net/",
+            "category": [
+                "gameserver",
+                "voiceserver",
+                "musicbots",
+                "domains"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Frankfurt am Main, Hesse, Germany",
+                "London, England, United Kingdom",
+                "New York City, New York, USA",
+                "Miami, Florida, USA",
+                "Los Angeles, California, USA",
+                "Sao Paulo, Sao Paulo, Brazil",
+                "Singapore",
+                "Sydney, New South Wales, Australia",
+                "Tokyo, Tokyo, Japan"
+            ]
         },
         {
             "name": "Novatrend",
@@ -1045,23 +1085,51 @@
         {
             "name": "one.com",
             "link": "https://www.one.com/",
-            "category": "",
+            "category": [
+                "webspace"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Denmark"
+            ]
         },
         {
             "name": "Online.net",
-            "link": "",
-            "category": "",
+            "link": "https://online.net",
+            "category": [
+                "vps",
+                "dedicated"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Paris, Paris, France",
+                "Amsterdam, North Holland, The Netherlands",
+                "Warsaw, Mazovia, Poland"
+            ]
         },
         {
             "name": "OVHcloud",
-            "link": "https://www.ovh.ie/web-hosting/",
-            "category": "",
+            "link": "https://www.ovhcloud.com",
+            "category": [
+                "vps",
+                "dedicated",
+                "webspace",
+                "domains"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Roubaix, Hauts-de-France, France",
+                "Gravelines, Hauts-de-France, France",
+                "Strasbourg, Grand Est, France",
+                "Limburg an der Lahn, Hesse, Germany",
+                "Erith, England, United Kingdom",
+                "Warsaw, Mazovia, Poland",
+                "Beauharnois, Quebec, Canada",
+                "Vint Hill, Virginia, USA",
+                "Hillsboro, Oregon, USA",
+                "Singapore",
+                "Sydney, New South Wales, Australia"
+            ]
         },
         {
             "name": "pair Networks",
@@ -1234,9 +1302,13 @@
         {
             "name": "StoreHost",
             "link": "https://store-host.com/",
-            "category": "",
+            "category": [
+                "vps"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Dietikon, Zurich, Switzerland"
+            ]
         },
         {
             "name": "Serversaurus",
@@ -1446,10 +1518,15 @@
         },
         {
             "name": "webgo",
-            "link": "",
-            "category": "",
+            "link": "https://www.webgo.de/",
+            "category": [
+                "vps",
+                "webspace"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Hamburg, Free and Hanseatic City of Hamburg, Germany"
+            ]
         },
         {
             "name": "WebHosting 1st",
@@ -1488,10 +1565,16 @@
         },
         {
             "name": "World4You Internet Services GmbH",
-            "link": "",
-            "category": "",
+            "link": "https://www.world4you.com/",
+            "category": [
+                "vps",
+                "webspace",
+                "domains"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Vienna, Vienna, Austria"
+            ]
         },
         {
             "name": "WPX Hosting",
@@ -2001,16 +2084,16 @@
             ],
             "note": "",
             "location": [
-                "USA, Dallas, TX",
-                "USA, Vint Hill",
-                "USA, Miami",
-                "USA Los Angeles",
-                "Montreal, Canada",
-                "United Kingdom",
-                "France",
+                "Dallas, Texas, USA",
+                "Vint Hill, Virginia, USA",
+                "Miami, Florida, USA",
+                "Los Angeles, California, USA",
+                "Beauharnois, Quebec, Canada",
+                "Erith, England, United Kingdom",
+                "Gravelines, Hauts-de-France, France",
                 "Singapore",
-                "Sydney Australia",
-                "Tokyo, Japan"
+                "Sydney, New South Wales, Australia",
+                "Tokyo, Tokyo, Japan"
             ]
         },
         {
@@ -2063,9 +2146,10 @@
             ],
             "note": "",
             "location": [
-                "USA Las Vegas",
-                "USA New Jersey",
-                "Luxembourg"
+                "Las Vegas, Nevada, USA",
+                "New York City, New York, USA",
+                "Miami, Florida, USA",
+                "Bissen, Mersch, Luxembourg"
             ]
         },
         {
