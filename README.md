@@ -30,7 +30,7 @@ This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS 
                 "Sydney, New South Wales, Australia",
                 "Tokyo, Tokyo, Japan"
             ]
-        },
+        }
 
 
 ## Used By
