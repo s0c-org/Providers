@@ -1,5 +1,4 @@
 name: JSON check
-
 on:
   push:
     paths:
