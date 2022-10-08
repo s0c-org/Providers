@@ -1,3 +1,5 @@
+[![Validate JSONs](https://github.com/s0c-org/Providers/actions/workflows/validate-json.yml/badge.svg?event=push)](https://github.com/s0c-org/Providers/actions/workflows/validate-json.yml)
+
 
 # Provider List
 
