@@ -658,21 +658,6 @@
             "location": []
         },
         {
-            "name": "hetzner",
-            "link": "https://hetzner.de",
-            "category": [
-                "webspace",
-                "dedicated server",
-                "colocation",
-                "vps"
-            ],
-            "note": "",
-            "location": [
-                "germany",
-                "Finnland Helsinki"
-            ]
-        },
-        {
             "name": "Hoop.la",
             "link": "/#",
             "category": "",
