@@ -2,6 +2,7 @@
         {
             "name": "Other",
             "link": "/#",
+            "country_of_origin": "N/A",
             "category": [
                 "none"
             ],
@@ -11,8 +12,9 @@
             ]
         },
         {
-            "name": "Hetzner",
+            "name": "Hetzner Online GmbH",
             "link": "https://hetzner.com",
+            "country_of_origin": "Germany",
             "category": [
                 "vps",
                 "dedicated",
@@ -27,48 +29,66 @@
             ]
         },
         {
-            "name": "Site.nl",
+            "name": "Site B.V.",
             "link": "https://site.nl/",
+            "country_of_origin": "The Netherlands",
             "category": [
-                "webspace"
+                "webspace",
+                "domain"
             ],
             "note": "",
             "location": [
-                "Netherlands"
+                "Lelystad, Flevoland, The Netherlands"
             ]
         },
         {
             "name": "WebOké",
             "link": "https://www.weboke.nl/",
+            "country_of_origin": "The Netherlands",
             "category": [
-                "webspace"
+                "webspace",
+                "domain"
             ],
-            "note": "",
+            "note": "The website is in Dutch.",
             "location": [
-                "Netherlands"
+                "Amsterdam, North Holland, The Netherlands"
             ]
         },
         {
-            "name": "Antagonist",
+            "name": "Antagonist B.V.",
             "link": "https://www.antagonist.nl/",
-            "category": [],
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Aquatis",
-            "link": "https://aquatis.host/",
+            "country_of_origin": "The Netherlands",
             "category": [
-                "webspace"
+                "webspace",
+                "domain"
             ],
-            "note": "",
+            "note": "The website is in Dutch.",
             "location": [
-                "Netherlands"
+                "Hengelo, Overijssel, The Netherlands"
             ]
         },
         {
-            "name": "bplaced",
+            "name": "Aquatis LLC",
+            "link": "https://aquatis.host/",
+            "country_of_origin": "USA",
+            "category": [
+                "vps",
+                "dedicated",
+                "webspace",
+                "gameserver"
+
+            ],
+            "note": "",
+            "location": [
+                "Dallas, Texas, USA",
+                "Tampa, Florida, USA",
+                "Nuremberg, Bavaria, Germany"   
+            ]
+        },
+        {
+            "name": "bplaced e.U.",
             "link": "https://www.bplaced.net/",
+            "country_of_origin": "Austria",
             "category": [
                 "webspace"
             ],
@@ -78,31 +98,41 @@
             ]
         },
         {
-            "name": "Cloud86",
+            "name": "Cloud86 B.V.",
             "link": "https://cloud86.nl/",
-            "category": [],
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Domainnameshop",
-            "link": "https://www.domainnameshop.com/",
+            "country_of_origin": "The Netherlands",
             "category": [
+                "vps",
                 "webspace",
-                "vps"
+                "domain"
             ],
-            "note": "",
+            "note": "The website is in Dutch.",
             "location": [
-                "Netherlands"
+                "Groningen, Groningen, The Netherlands"
             ]
         },
         {
-            "name": "DreamHost",
-            "link": "https://www.dreamhost.com/",
+            "name": "Domeneshop AS",
+            "link": "https://www.domainnameshop.com/",
+            "country_of_origin": "Norway",
             "category": [
                 "webspace",
+                "domain"
+            ],
+            "note": "",
+            "location": [
+                "Olso, Oslo, Norway"
+            ]
+        },
+        {
+            "name": "DreamHost, LLC",
+            "link": "https://www.dreamhost.com/",
+            "country_of_origin": "USA",
+            "category": [
                 "vps",
-                "dedicated server"
+                "dedicated",
+                "webspace",
+                "domain"
             ],
             "note": "",
             "location": [
@@ -110,53 +140,91 @@
             ]
         },
         {
-            "name": "Futureweb OG",
+            "name": "Futureweb GmbH",
             "link": "https://www.futureweb.at/",
+            "country_of_origin": "Austria",
             "category": [
+                "vps",
                 "webspace",
-                "vps"
+                "domain"
             ],
             "note": "",
             "location": [
-                "Germany"
+                "Austria"
             ]
         },
         {
             "name": "Inspedium Corp.",
             "link": "https://www.inspedium.com/",
-            "category": [],
+            "country_of_origin": "Pakistan",
+            "category": [
+                "webspace",
+                "domain"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Unknown"
+            ]
         },
         {
-            "name": "Jimdo",
+            "name": "Jimdo GmbH",
             "link": "https://www.jimdo.com/",
+            "country_of_origin": "Germany",
             "category": [
+                "webspace",
+                "domain"
+            ],
+            "note": "",
+            "location": [
+                "Dublin, Leinster, Ireland"
+            ]
+        },
+        {
+            "name": "manitu GmbH",
+            "link": "https://www.manitu.de/",
+            "country_of_origin": "Germany",
+            "category": [
+                "dedicated",
+                "webspace",
+                "domain"
+            ],
+            "note": "",
+            "location": [
+                "St. Wendel, Saarland, Germany"
+            ]
+        },
+        {
+            "name": "Mythic Beasts Ltd",
+            "link": "https://www.mythic-beasts.com/",
+            "country_of_origin": "United Kingdom",
+            "category": [
+                "vps",
+                "dedicated",
+                "webspace",
+                "domain",
+                "colocation"
+            ],
+            "note": "",
+            "location": [
+                "London, England, United Kingdom",
+                "Cambridge, England, United Kingdom",
+                "Amsterdam, North Holland, The Netherlands",
+                "Fremont, California, USA"
+            ]
+        },
+        {
+            "name": "Network Data Center Host, Inc.",
+            "link": "https://ndchost.com/",
+            "country_of_origin": "USA",
+            "category": [
+                "vps",
+                "dedicated",
                 "webspace"
             ],
             "note": "",
-            "location": []
-        },
-        {
-            "name": "manitu",
-            "link": "https://www.manitu.de/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Mythic Beasts",
-            "link": "https://www.mythic-beasts.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "NDCHost",
-            "link": "https://ndchost.com/",
-            "category": "",
-            "note": "",
-            "location": []
+            "location": [
+                "San Diego, California, USA"
+            ]
         },
         {
             "name": "Neocities",
@@ -216,6 +284,7 @@
         {
             "name": "Spry Servers",
             "link": "https://www.spryservers.net/",
+            "country_of_origin": "USA",
             "category": [
                 "vps",
                 "dedicated",
@@ -236,6 +305,7 @@
         },
         {
             "name": "Uberspace",
+            "country_of_origin": "Germany",
             "link": "https://uberspace.de/",
             "category": [
                 "webspace"
@@ -275,38 +345,45 @@
         },
         {
             "name": "34SP.com",
-            "link": "/#",
+            "link": "",
             "category": "",
             "note": "",
             "location": []
         },
         {
             "name": "a2hosting.com",
-            "link": "/#",
+            "link": "",
             "category": "",
             "note": "",
             "location": []
         },
         {
             "name": "Active24.co.uk",
-            "link": "/#",
+            "link": "",
             "category": "",
             "note": "",
             "location": []
         },
         {
             "name": "Active24.cz",
-            "link": "/#",
+            "link": "",
             "category": "",
             "note": "",
             "location": []
         },
         {
             "name": "all-inkl.com",
-            "link": "/#",
-            "category": "",
+            "link": "https://all-inkl.com/",
+            "country_of_origin": "Germany",
+            "category": [
+                "dedicated",
+                "webspace",
+                "domain"
+            ],
             "note": "",
-            "location": []
+            "location": [
+                "Dresden, Saxony, Germany"
+            ]
         },
         {
             "name": "Alephion",
