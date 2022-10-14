@@ -3,7 +3,7 @@
 
 # Provider List
 
-This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS providers. 
+This is a collection of hosting, webspace, gameserver, DDOS protection, and VPS providers with the location. 
 
 ## Example
 
