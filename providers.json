@@ -12,6 +12,19 @@
             ]
         },
         {
+            "name": "Hostpoint ",
+            "link": "https://hostpoint.ch",
+            "country_of_origin": "Switzerland",
+            "category": [
+                "vps",
+                "webspace"
+            ],
+            "note": "",
+            "location": [
+                "Switzerland"    
+            ]
+        },
+        {
             "name": "Hetzner Online GmbH",
             "link": "https://hetzner.com",
             "country_of_origin": "Germany",
