@@ -1,5 +1,24 @@
 [
     {
+        "name": "khanwebhost",
+        "link": "https://khanwebhost.com/",
+        "country_of_origin": "Punjab, Pakistan",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "United Kingdom",
+            "India",
+            "Germany",
+            "Turkey",
+            "France",
+            "Los Angeles, California, USA"
+        ]
+    },
+    {
         "name": "CrownCloud",
         "link": "https://crowncloud.net",
         "country_of_origin": "Australia",
