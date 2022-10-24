@@ -1,5 +1,23 @@
 [
     {
+        "name": "CrownCloud",
+        "link": "https://crowncloud.net",
+        "country_of_origin": "Australia",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "Atlanta, Georgia, USA",
+            "Frankfurt am Main, Hesse, Germany",
+            "Amsterdam, North Holland, The Netherlands"
+        ]
+    },
+    {
         "name": "MYW",
         "link": "https://myw.pt",
         "country_of_origin": "N/A",
