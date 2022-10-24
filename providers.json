@@ -1,5 +1,19 @@
 [
     {
+        "name": "MYW",
+        "link": "https://myw.pt",
+        "country_of_origin": "N/A",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "N/A"
+        ]
+    },
+    {
         "name": "ReadyDedis",
         "link": "https://readydedis.com",
         "country_of_origin": "USA",
