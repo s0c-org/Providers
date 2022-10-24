@@ -2300,8 +2300,7 @@
             "note": "",
             "location": ["Eygelshoven, The Netherlands" ]
 
-        }
-        ,
+        },
         {
             "name": "Liteserver",
             "link": "https://liteserver.nl/",
@@ -2310,9 +2309,28 @@
                     "vps",
             ],
             "note": "",
-            "location": ["Groningen, The Netherlands",
-                        "Amsterdam, The Netherlands",
-                        "Dronten, The Netherlands"]
+            "location": [
+                    "Groningen, The Netherlands",
+                    "Amsterdam, The Netherlands",
+                    "Dronten, The Netherlands"
+            ]
+
+        },
+        {
+            "name": "Dedispec",
+            "link": "https://dedispec.com",
+            "country_of_origin": "The Netherlands",
+            "category": [
+                    "dedicated",
+                    "colocation"
+            ],
+            "note": "",
+            "location": [
+                "USA, Dallas, TX",
+                "USA, West Virginia, WV",
+                "USA, Missouri, MO",
+                    
+            ]
 
         }
     ]
