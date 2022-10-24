@@ -1,5 +1,22 @@
 [
     {
+        "name": "RamNode",
+        "link": "https://ramnode.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "Cloud",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Seatle, Washington, USA",
+            "Los Angeles, California, USA",
+            "Atlanta, Georgia, USA",
+            "New York City, New York, USA",
+            "The Netherlands"
+        ]
+    },
+    {
         "name": "khanwebhost",
         "link": "https://khanwebhost.com/",
         "country_of_origin": "Punjab, Pakistan",
