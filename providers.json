@@ -2306,7 +2306,7 @@
             "link": "https://liteserver.nl/",
             "country_of_origin": "The Netherlands",
             "category": [
-                    "vps",
+                    "vps"
             ],
             "note": "",
             "location": [
@@ -2314,7 +2314,6 @@
                     "Amsterdam, The Netherlands",
                     "Dronten, The Netherlands"
             ]
-
         },
         {
             "name": "Dedispec",
@@ -2328,10 +2327,8 @@
             "location": [
                 "USA, Dallas, TX",
                 "USA, West Virginia, WV",
-                "USA, Missouri, MO",
-                    
+                "USA, Missouri, MO
             ]
-
         }
     ]
 
