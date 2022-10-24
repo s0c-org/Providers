@@ -1,5 +1,24 @@
 [
     {
+        "name": "BudgetNode",
+        "link": "https://budgetnode.com",
+        "country_of_origin": "United Kingdom, UK",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Ashburn, Virginia, USA",
+            "Los Angeles, California, USA",
+            "Atlanta, Georgia, USA",
+            "Lelystad, Flevoland, The Netherlands",
+            "Miami, Florida, USA",
+            "Ogden, Utah, USA",
+            "London, Docklands 1, United Kingdom",
+            "Gosport, South Hamshire, United Kingdom"
+        ]
+    },
+    {
         "name": "Skylon Host",
         "link": "https://skylonhost.com",
         "country_of_origin": "Czech Republic",
