@@ -2287,5 +2287,18 @@
             ],
             "note": "",
             "location": []
+        },
+        {
+            "name": "KTS24",
+            "link": "https://kts24.com",
+            "country_of_origin": "Germany",
+            "category": [
+                    "vps",
+                    "colocation",
+                    "dedicated"
+            ],
+            "note": "",
+            "location": ["Eygelshoven, The Netherlands" ]
+
         }
     ]
