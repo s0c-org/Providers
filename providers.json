@@ -2301,4 +2301,21 @@
             "location": ["Eygelshoven, The Netherlands" ]
 
         }
+        ,
+        {
+            "name": "Liteserver",
+            "link": "https://liteserver.nl/",
+            "country_of_origin": "The Netherlands",
+            "category": [
+                    "vps",
+            ],
+            "note": "",
+            "location": ["Groningen, The Netherlands",
+                        "Amsterdam, The Netherlands",
+                        "Dronten, The Netherlands"]
+
+        }
     ]
+
+
+
