@@ -1,5 +1,22 @@
 [
     {
+        "name": "ReadyDedis",
+        "link": "https://readydedis.com",
+        "country_of_origin": "USA",
+        "category": [
+            "aws",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Buffalo, New York, USA",
+            "Los Angeles, California, USA",
+            "Phoenix, Arizona, USA",
+            "Dallas, Texas, USA"
+        ]
+    },
+    {
         "name": "hyperexpert",
         "link": "https://hyperexpert.com/",
         "country_of_origin": "Seattle, WA, USA",
