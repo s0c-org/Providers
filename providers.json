@@ -2330,22 +2330,26 @@
         ]
     },
     {
-        "name": "Pure Voltage",
-        "link": "https://purevoltage.com",
-        "country_of_origin": "USA, Dellaware",
+        "name": "Evolution Host",
+        "link": "https://evolution-host.com",
+        "country_of_origin": "United Kingdom, UK",
         "category": [
             "dedicated",
-            "colocation",
+            "DDOS Protection",
             "vps",
-            "webhosting"
+            "Game Server"
         ],
         "note": "",
         "location": [
-            "USA, New York City, NY",
-            "USA, Seattle, SW",
-            "USA, Dallas, TX",
-            "Amsterdam, The Netherlands",
-            "USA, Chicago, "
+            "Canada",
+            "USA",
+            "Germany",
+            "United Kingdom",
+            "Poland",
+            "Finland",
+            "France",
+            "Asia"
+
         ]
     }
 ]
