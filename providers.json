@@ -1,2333 +1,2351 @@
 [
-        {
-            "name": "Other",
-            "link": "/#",
-            "country_of_origin": "N/A",
-            "category": [
-                "none"
-            ],
-            "note": "",
-            "location": [
-                ""
-            ]
-        },
-        {
-            "name": "Hostpoint ",
-            "link": "https://hostpoint.ch",
-            "country_of_origin": "Switzerland",
-            "category": [
-                "vps",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Switzerland"    
-            ]
-        },
-        {
-            "name": "Hetzner Online GmbH",
-            "link": "https://hetzner.com",
-            "country_of_origin": "Germany",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Falkenstein, Saxony, Germany",
-                "Nuremberg, Bavaria, Germany",
-                "Tuusula, Uusimaa, Finland",
-                "Ashburn, Virginia, USA"    
-            ]
-        },
-        {
-            "name": "Site B.V.",
-            "link": "https://site.nl/",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Lelystad, Flevoland, The Netherlands"
-            ]
-        },
-        {
-            "name": "WebOké",
-            "link": "https://www.weboke.nl/",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "The website is in Dutch.",
-            "location": [
-                "Amsterdam, North Holland, The Netherlands"
-            ]
-        },
-        {
-            "name": "Antagonist B.V.",
-            "link": "https://www.antagonist.nl/",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "The website is in Dutch.",
-            "location": [
-                "Hengelo, Overijssel, The Netherlands"
-            ]
-        },
-        {
-            "name": "Aquatis LLC",
-            "link": "https://aquatis.host/",
-            "country_of_origin": "USA",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace",
-                "gameserver"
-
-            ],
-            "note": "",
-            "location": [
-                "Dallas, Texas, USA",
-                "Tampa, Florida, USA",
-                "Nuremberg, Bavaria, Germany"   
-            ]
-        },
-        {
-            "name": "bplaced e.U.",
-            "link": "https://www.bplaced.net/",
-            "country_of_origin": "Austria",
-            "category": [
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Falkenstein, Saxony, Germany"
-            ]
-        },
-        {
-            "name": "Cloud86 B.V.",
-            "link": "https://cloud86.nl/",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                "vps",
-                "webspace",
-                "domain"
-            ],
-            "note": "The website is in Dutch.",
-            "location": [
-                "Groningen, Groningen, The Netherlands"
-            ]
-        },
-        {
-            "name": "Domeneshop AS",
-            "link": "https://www.domainnameshop.com/",
-            "country_of_origin": "Norway",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Olso, Oslo, Norway"
-            ]
-        },
-        {
-            "name": "DreamHost, LLC",
-            "link": "https://www.dreamhost.com/",
-            "country_of_origin": "USA",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "United States"
-            ]
-        },
-        {
-            "name": "Futureweb GmbH",
-            "link": "https://www.futureweb.at/",
-            "country_of_origin": "Austria",
-            "category": [
-                "vps",
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Austria"
-            ]
-        },
-        {
-            "name": "Inspedium Corp.",
-            "link": "https://www.inspedium.com/",
-            "country_of_origin": "Pakistan",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Unknown"
-            ]
-        },
-        {
-            "name": "Jimdo GmbH",
-            "link": "https://www.jimdo.com/",
-            "country_of_origin": "Germany",
-            "category": [
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Dublin, Leinster, Ireland"
-            ]
-        },
-        {
-            "name": "manitu GmbH",
-            "link": "https://www.manitu.de/",
-            "country_of_origin": "Germany",
-            "category": [
-                "dedicated",
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "St. Wendel, Saarland, Germany"
-            ]
-        },
-        {
-            "name": "Mythic Beasts Ltd",
-            "link": "https://www.mythic-beasts.com/",
-            "country_of_origin": "United Kingdom",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace",
-                "domain",
-                "colocation"
-            ],
-            "note": "",
-            "location": [
-                "London, England, United Kingdom",
-                "Cambridge, England, United Kingdom",
-                "Amsterdam, North Holland, The Netherlands",
-                "Fremont, California, USA"
-            ]
-        },
-        {
-            "name": "Network Data Center Host, Inc.",
-            "link": "https://ndchost.com/",
-            "country_of_origin": "USA",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "San Diego, California, USA"
-            ]
-        },
-        {
-            "name": "Neocities",
-            "link": "https://neocities.org/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "netclusive",
-            "link": "https://netclusive.de/",
-            "category": "",
-            "note": "The website is in German."
-        },
-        {
-            "name": "Netlify",
-            "link": "https://www.netlify.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pantheon",
-            "link": "https://pantheon.io/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Platform.sh",
-            "link": "https://platform.sh",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pride Tech Design",
-            "link": "https://pridetechdesign.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Render",
-            "link": "https://render.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "QTH.com Hosting",
-            "link": "https://hosting.qth.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Spry Servers",
-            "link": "https://www.spryservers.net/",
-            "country_of_origin": "USA",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Phoenix, Arizona, USA",
-                "Dallas, Texas, USA"    
-            ]                
-        },
-        {
-            "name": "Squarespace",
-            "link": "https://www.squarespace.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Uberspace",
-            "country_of_origin": "Germany",
-            "link": "https://uberspace.de/",
-            "category": [
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Frankfurt am Main, Hesse, Germany"
-            ]
-        },
-        {
-            "name": "Webdock",
-            "link": "https://webdock.io/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "WordPress.com",
-            "link": "https://wordpress.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "WRX Online",
-            "link": "https://wrx.hu/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "NFOservers",
-            "link": "https://nfoservers.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "34SP.com",
-            "link": "",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "a2hosting.com",
-            "link": "",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Active24.co.uk",
-            "link": "",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Active24.cz",
-            "link": "",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "all-inkl.com",
-            "link": "https://all-inkl.com/",
-            "country_of_origin": "Germany",
-            "category": [
-                "dedicated",
-                "webspace",
-                "domain"
-            ],
-            "note": "",
-            "location": [
-                "Dresden, Saxony, Germany"
-            ]
-        },
-        {
-            "name": "Alephion",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "AllDomains",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "bhosted",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Blogger",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Blueboard",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Brontobytes",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Brownrice Internet",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Buyshared.net",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "bytecamp",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Canadian Domain Name Services Inc",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Campusspeicher",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Certified Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cheap Web Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "checkdomain",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cityhost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cloudcity",
-            "link": "/#",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cloudhulk",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cloudways",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Combell",
-            "link": "https://www.combell.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Configbox",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Cyon.ch",
-            "link": "https://www.cyon.ch/ssl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Deep.ch",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "DM Solutions",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Do.de",
-            "link": "https://www.do.de",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Domain & Webspace Tremmel",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Domainhizmetleri",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Domaintechnik",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Domena.pl",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Dwe Gruppe",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "EDIS.AT, Austria",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ElbiaHosting.sk",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Espace2001.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "EvenNode.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "FastComet",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Fastnom",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "FlockHosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "FlokiNET",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Flywheel",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Freethought",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Fortrabbit",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Funio.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Gandi",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "GeekGhost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "GearHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "GitHub Pages",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "GitLab",
-            "link": "https://about.gitlab.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Google App Engine",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Greengeeks",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HawkHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Heroku",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hoop.la",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Host4Geeks",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostGator",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hostin.mu",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hostineer",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hostinger",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hosting24",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hosting90 Systems",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostM.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostMantis",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostmyWebsite",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "hostNET.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hostnet (NL)",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostOne.com.br",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostPapa",
-            "link": "https://www.hostpapa.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "hostenko.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ifastnet",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ifc hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ihead.ru",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ikoula",
-            "link": "https://www.ikoula.com/en/web-hosting",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Inertia Networks",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Infomaniak",
-            "link": "https://www.infomaniak.com/gotoroutewithautolang/hosting.ssl",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Infrenion Networks",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "IPage",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Jump.bg",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "KingHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Kinsta",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "KLE-Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Kontent.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Krystal Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Level27",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Lima-city.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Limenex Web Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MadRooster.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "maxcluster",
-            "link": "https://maxcluster.de/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "mijn.host",
-            "link": "https://mijn.host/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MilesWeb",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Mittwald",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MivoCloud",
-            "link": "https://mivocloud.com/",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Chisinau, Chisinau Municipality, Moldova",
-                "Iasi, Iasi, Romania",
-                "Moscow, Moscow, Russia",
-                "Bend, Oregon, USA"
-
-            ]
-        },
-        {
-            "name": "MonsterMedia",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MonsterMegs",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MyDevil.net",
-            "link": "https://www.mydevil.net",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MyDreams innovations s.r.o.",
-            "link": "https://www.mydreams.cz/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "NearlyFreeSpeech.NET",
-            "link": "https://www.nearlyfreespeech.net/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Netsite",
-            "link": "https://www.netsite.dk/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Neify Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Neostrada.nl",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Netcup.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Netlify",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "NewHostServers.net",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Nexcess.net",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Ngage Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Nitrado",
-            "link": "https://nitrado.net/",
-            "category": [
-                "gameserver",
-                "voiceserver",
-                "musicbots",
-                "domains"
-            ],
-            "note": "",
-            "location": [
-                "Frankfurt am Main, Hesse, Germany",
-                "London, England, United Kingdom",
-                "New York City, New York, USA",
-                "Miami, Florida, USA",
-                "Los Angeles, California, USA",
-                "Sao Paulo, Sao Paulo, Brazil",
-                "Singapore",
-                "Sydney, New South Wales, Australia",
-                "Tokyo, Tokyo, Japan"
-            ]
-        },
-        {
-            "name": "Novatrend",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Nucleus.be",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "one.com",
-            "link": "https://www.one.com/",
-            "category": [
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Denmark"
-            ]
-        },
-        {
-            "name": "Online.net",
-            "link": "https://online.net",
-            "category": [
-                "vps",
-                "dedicated"
-            ],
-            "note": "",
-            "location": [
-                "Paris, Paris, France",
-                "Amsterdam, North Holland, The Netherlands",
-                "Warsaw, Mazovia, Poland"
-            ]
-        },
-        {
-            "name": "OVHcloud",
-            "link": "https://www.ovhcloud.com",
-            "category": [
-                "vps",
-                "dedicated",
-                "webspace",
-                "domains"
-            ],
-            "note": "",
-            "location": [
-                "Roubaix, Hauts-de-France, France",
-                "Gravelines, Hauts-de-France, France",
-                "Strasbourg, Grand Est, France",
-                "Limburg an der Lahn, Hesse, Germany",
-                "Erith, England, United Kingdom",
-                "Warsaw, Mazovia, Poland",
-                "Beauharnois, Quebec, Canada",
-                "Vint Hill, Virginia, USA",
-                "Hillsboro, Oregon, USA",
-                "Singapore",
-                "Sydney, New South Wales, Australia"
-            ]
-        },
-        {
-            "name": "pair Networks",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pantheon",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pagely",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "PeoplesHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Platform.sh",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "PlanetHoster Inc",
-            "link": "https://www.planethoster.com/en/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Professional Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pressidium",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Pressjitsu.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Presslabs.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Profihost AG",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Progreso.pl",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "PulseHeberg.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Quality Location",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "RAIDBOXES.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ReadySpace",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ReformHosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Register.it",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ResellersPanel",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "RSHosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Schokokeks.org",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Sensson",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Seravo",
-            "link": "https://seravo.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ServerPilot",
-            "link": "https://serverpilot.io/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "StoreHost",
-            "link": "https://store-host.com/",
-            "category": [
-                "vps"
-            ],
-            "note": "",
-            "location": [
-                "Dietikon, Zurich, Switzerland"
-            ]
-        },
-        {
-            "name": "Serversaurus",
-            "link": "https://serversaurus.com.au/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Shopify",
-            "link": "https://www.shopify.com/pricing",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SiteGround.com",
-            "link": "https://www.siteground.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Slotex.pl",
-            "link": "https://slotex.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SnapPages",
-            "link": "https://www.snappages.net/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "snowflake Ops",
-            "link": "https://www.snowflake.com/pricing/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SpaceHost.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Squidix",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Stablehost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "stinpriza",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Strony-Domeny.pl",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Swisscom",
-            "link": "https://swisscom.ch",
-            "category": [
-                "webspace",
-                "vps"
-            ],
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "TerraNetwork Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Thecamels",
-            "link": "https://thecamels.org/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Thisistap",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Tiger Technologies",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Top Host",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Torpix Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "TransIP",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Tsohost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Tumblr",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "UnoEuro",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "UpTime Web Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "VapourHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "VeeroTech",
-            "link": "https://www.veerotech.net/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Vélhost",
-            "link": "https://velhost.fr/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Vildmarksdata Sweden",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Vimexx",
-            "link": "https://www.vimexx.nl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "VIPserv.org",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "webgo",
-            "link": "https://www.webgo.de/",
-            "category": [
-                "vps",
-                "webspace"
-            ],
-            "note": "",
-            "location": [
-                "Hamburg, Free and Hanseatic City of Hamburg, Germany"
-            ]
-        },
-        {
-            "name": "WebHosting 1st",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "WebhostOne",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "WebHostUK Limited",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Websavers",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Wetopi",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "World4You Internet Services GmbH",
-            "link": "https://www.world4you.com/",
-            "category": [
-                "vps",
-                "webspace",
-                "domains"
-            ],
-            "note": "",
-            "location": [
-                "Vienna, Vienna, Austria"
-            ]
-        },
-        {
-            "name": "WPX Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Wurpe",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "WP Engine",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Zuver",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Antilope Hosting",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Eidolonhost.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "KnownHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "PlotHost",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "VentraIP Australia",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Websupport.sk",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "XS4ALL",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "XSByte",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "1and1.com",
-            "link": "https://www.ionos.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "247-host.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Amazili-communication",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "CrazyDomains",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "df.eu",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "GoDaddy",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostEurope.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HostMonster.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hostripples.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Inmotionhosting.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Namecheap.com",
-            "link": "https://www.namecheap.com/hosting/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Netsons.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Site5.com",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Strato.de",
-            "link": "/#",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "easyname",
-            "link": "https://www.easyname.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Thexyz",
-            "link": "https://www.thexyz.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Umbler",
-            "link": "https://www.umbler.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Vero Servers",
-            "link": "https://www.veroservers.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "1984 Hosting",
-            "link": "https://www.1984hosting.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "alwaysdata",
-            "link": "https://www.alwaysdata.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Wikstrom Telephone Company (Wiktel)",
-            "link": "https://wiktel.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "XMission",
-            "link": "https://www.xmission.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ICDSoft",
-            "link": "https://www.icdsoft.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Marketing One",
-            "link": "https://www.marketingone.com.au",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "signaltransmitter.de",
-            "link": "https://signaltransmitter.de",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "CA Net, Europe",
-            "link": "https://www.canet.at",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Nuclear.Hosting",
-            "link": "https://nuclear.hosting",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "HahuCloud",
-            "link": "https://www.hahucloud.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Shellrent",
-            "link": "https://www.shellrent.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "NederHost",
-            "link": "https://www.nederhost.nl",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Conetix",
-            "link": "https://conetix.com.au",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Firebase Hosting",
-            "link": "https://firebase.google.com/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Rad Web Hosting",
-            "link": "https://radwebhosting.com",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Zoner Oy",
-            "link": "https://www.zoner.fi/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "webkeeper.ch",
-            "link": "https://www.webkeeper.ch/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Clausweb",
-            "link": "https://www.clausweb.ro/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Hartserver",
-            "link": "https://hartserver.net/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "UKFast",
-            "link": "https://ukfast.co.uk/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "nazwa.pl",
-            "link": "https://nazwa.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Home.pl",
-            "link": "https://home.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "az.pl",
-            "link": "https://az.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Small.pl",
-            "link": "https://www.small.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "ct8.pl",
-            "link": "https://www.ct8.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "cyber_Folks",
-            "link": "https://cyberfolks.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SeoHost.pl",
-            "link": "https://seohost.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Kei.pl",
-            "link": "https://www.kei.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "zenbox.pl",
-            "link": "https://zenbox.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "dhosting.pl",
-            "link": "https://dhosting.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Kylos",
-            "link": "https://www.kylos.pl/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "MyHost (NZ)",
-            "link": "https://myhost.nz/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SiteHost",
-            "link": "https://sitehost.nz/",
-            "category": "",
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "Dr. Server",
-            "link": "https://drserver.net",
-            "category": [
-                "webspace",
-                "dedicated server",
-                "vps",
-                "email",
-                "ssl"
-            ],
-            "note": "",
-            "location": [
-                "USA, Dallas, TX"
-            ]
-        },
-        {
-            "name": "Inception Hosting",
-            "link": "https://inceptionhosting.com",
-            "category": [
-                "vps",
-                "webspace",
-                "dedicated server"
-            ],
-            "note": "",
-            "location": [
-                "USA, Phoenix, AZ",
-                "United Kingdom",
-                "Netherlands, Rotterdam"
-            ]
-        },
-        {
-            "name": "FlowVPS",
-            "link": "https://flowvps.com",
-            "category": [
-                "vps"
-            ],
-            "note": "",
-            "location": [
-                "Melbourne, Australia"
-            ]
-        },
-        {
-            "name": "FreeRangeCloud",
-            "link": "https://freerangecloud.com",
-            "category": [
-                "vps",
-                "lir",
-                "colocation"
-            ],
-            "note": "",
-            "location": [
-                "Toronto, Canada",
-                "Winnipeg, Canada",
-                "Vancouver, Canada"
-            ]
-        },
-        {
-            "name": "ExtraVM",
-            "link": "https://extravm.com",
-            "category": [
-                "vps",
-                "Game Server",
-                "webspace",
-                "dedicated server"
-            ],
-            "note": "",
-            "location": [
-                "Dallas, Texas, USA",
-                "Vint Hill, Virginia, USA",
-                "Miami, Florida, USA",
-                "Los Angeles, California, USA",
-                "Beauharnois, Quebec, Canada",
-                "Erith, England, United Kingdom",
-                "Gravelines, Hauts-de-France, France",
-                "Singapore",
-                "Sydney, New South Wales, Australia",
-                "Tokyo, Tokyo, Japan"
-            ]
-        },
-        {
-            "name": "NexusBytes",
-            "link": "https://nexusbytes.com",
-            "category": [
-                "webspace",
-                "vps"
-            ],
-            "note": "",
-            "location": [
-                "Singapore",
-                "Tokyo, Japan",
-                "Melbourne, Australia",
-                "Netherlands, Naaldwijk",
-                "United Kingdom",
-                "USA Los Angeles",
-                "USA Miami",
-                "USA New York"
-            ]
-        },
-        {
-            "name": "X4B",
-            "link": "https://www.x4b.net",
-            "category": [
-                "DDOS Protection"
-            ],
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "SSDBlaze",
-            "link": "https://ssdblaze.com",
-            "category": [
-                "dedicated server"
-            ],
-            "note": "",
-            "location": [
-                "USA, Dallas, TX",
-                "USA New York"
-            ]
-        },
-        {
-            "name": "BuyVM",
-            "link": "/#",
-            "category": [
-                "dedicated server",
-                "webspace",
-                "Block Storage"
-            ],
-            "note": "",
-            "location": [
-                "Las Vegas, Nevada, USA",
-                "New York City, New York, USA",
-                "Miami, Florida, USA",
-                "Bissen, Mersch, Luxembourg"
-            ]
-        },
-        {
-            "name": "LaunchVPS",
-            "link": "https://launchvps.com",
-            "category": [
-                "vps"
-            ],
-            "note": "",
-            "location": [
-                "USA Philadelphia"
-            ]
-        },
-        {
-            "name": "ExonHost",
-            "link": "/#",
-            "category": [
-                "webspace",
-                "vps",
-                "dedicated server",
-                "email",
-                "ssl"
-            ],
-            "note": "",
-            "location": [
-                "India Bangladesh",
-                "USA, Dallas, TX",
-                "germany",
-                "USA Los Angeles",
-                "USA New Jersey",
-                "USA Tampa",
-                "Singapore",
-                "USA Utah"
-            ]
-        },
-        {
-            "name": "HostEons",
-            "link": "https://hosteons.com",
-            "category": [
-                "webspace",
-                "vps",
-                "dedicated server"
-            ],
-            "note": "",
-            "location": [
-                "USA Los Angeles",
-                "USA Las Vegas",
-                "USA, Dallas, TX",
-                "USA Jacksonvill"
-            ]
-        },
-        {
-            "name": "Smarthost",
-            "link": "https://smarthost.net",
-            "category": [
-                "vps",
-                "dedicated server",
-                "ssl",
-                "colocation"
-            ],
-            "note": "",
-            "location": []
-        },
-        {
-            "name": "KTS24",
-            "link": "https://kts24.com",
-            "country_of_origin": "Germany",
-            "category": [
-                    "vps",
-                    "colocation",
-                    "dedicated"
-            ],
-            "note": "",
-            "location": ["Eygelshoven, The Netherlands" ]
-
-        },
-        {
-            "name": "Liteserver",
-            "link": "https://liteserver.nl/",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                    "vps"
-            ],
-            "note": "",
-            "location": [
-                    "Groningen, The Netherlands",
-                    "Amsterdam, The Netherlands",
-                    "Dronten, The Netherlands"
-            ]
-        },
-        {
-            "name": "Dedispec",
-            "link": "https://dedispec.com",
-            "country_of_origin": "The Netherlands",
-            "category": [
-                    "dedicated",
-                    "colocation"
-            ],
-            "note": "",
-            "location": [
-                "USA, Dallas, TX",
-                "USA, West Virginia, WV",
-                "USA, Missouri, MO"
-            ]
-        }
-    ]
+    {
+        "name": "Other",
+        "link": "/#",
+        "country_of_origin": "N/A",
+        "category": [
+            "none"
+        ],
+        "note": "",
+        "location": [
+            ""
+        ]
+    },
+    {
+        "name": "Hostpoint ",
+        "link": "https://hostpoint.ch",
+        "country_of_origin": "Switzerland",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Switzerland"
+        ]
+    },
+    {
+        "name": "Hetzner Online GmbH",
+        "link": "https://hetzner.com",
+        "country_of_origin": "Germany",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Falkenstein, Saxony, Germany",
+            "Nuremberg, Bavaria, Germany",
+            "Tuusula, Uusimaa, Finland",
+            "Ashburn, Virginia, USA"
+        ]
+    },
+    {
+        "name": "Site B.V.",
+        "link": "https://site.nl/",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Lelystad, Flevoland, The Netherlands"
+        ]
+    },
+    {
+        "name": "WebOké",
+        "link": "https://www.weboke.nl/",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "The website is in Dutch.",
+        "location": [
+            "Amsterdam, North Holland, The Netherlands"
+        ]
+    },
+    {
+        "name": "Antagonist B.V.",
+        "link": "https://www.antagonist.nl/",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "The website is in Dutch.",
+        "location": [
+            "Hengelo, Overijssel, The Netherlands"
+        ]
+    },
+    {
+        "name": "Aquatis LLC",
+        "link": "https://aquatis.host/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace",
+            "gameserver"
+        ],
+        "note": "",
+        "location": [
+            "Dallas, Texas, USA",
+            "Tampa, Florida, USA",
+            "Nuremberg, Bavaria, Germany"
+        ]
+    },
+    {
+        "name": "bplaced e.U.",
+        "link": "https://www.bplaced.net/",
+        "country_of_origin": "Austria",
+        "category": [
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Falkenstein, Saxony, Germany"
+        ]
+    },
+    {
+        "name": "Cloud86 B.V.",
+        "link": "https://cloud86.nl/",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "vps",
+            "webspace",
+            "domain"
+        ],
+        "note": "The website is in Dutch.",
+        "location": [
+            "Groningen, Groningen, The Netherlands"
+        ]
+    },
+    {
+        "name": "Domeneshop AS",
+        "link": "https://www.domainnameshop.com/",
+        "country_of_origin": "Norway",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Olso, Oslo, Norway"
+        ]
+    },
+    {
+        "name": "DreamHost, LLC",
+        "link": "https://www.dreamhost.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "United States"
+        ]
+    },
+    {
+        "name": "Futureweb GmbH",
+        "link": "https://www.futureweb.at/",
+        "country_of_origin": "Austria",
+        "category": [
+            "vps",
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Austria"
+        ]
+    },
+    {
+        "name": "Inspedium Corp.",
+        "link": "https://www.inspedium.com/",
+        "country_of_origin": "Pakistan",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
+        "name": "Jimdo GmbH",
+        "link": "https://www.jimdo.com/",
+        "country_of_origin": "Germany",
+        "category": [
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Dublin, Leinster, Ireland"
+        ]
+    },
+    {
+        "name": "manitu GmbH",
+        "link": "https://www.manitu.de/",
+        "country_of_origin": "Germany",
+        "category": [
+            "dedicated",
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "St. Wendel, Saarland, Germany"
+        ]
+    },
+    {
+        "name": "Mythic Beasts Ltd",
+        "link": "https://www.mythic-beasts.com/",
+        "country_of_origin": "United Kingdom",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace",
+            "domain",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "London, England, United Kingdom",
+            "Cambridge, England, United Kingdom",
+            "Amsterdam, North Holland, The Netherlands",
+            "Fremont, California, USA"
+        ]
+    },
+    {
+        "name": "Network Data Center Host, Inc.",
+        "link": "https://ndchost.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "San Diego, California, USA"
+        ]
+    },
+    {
+        "name": "Neocities",
+        "link": "https://neocities.org/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "netclusive",
+        "link": "https://netclusive.de/",
+        "category": "",
+        "note": "The website is in German."
+    },
+    {
+        "name": "Netlify",
+        "link": "https://www.netlify.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pantheon",
+        "link": "https://pantheon.io/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Platform.sh",
+        "link": "https://platform.sh",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pride Tech Design",
+        "link": "https://pridetechdesign.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Render",
+        "link": "https://render.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "QTH.com Hosting",
+        "link": "https://hosting.qth.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Spry Servers",
+        "link": "https://www.spryservers.net/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Phoenix, Arizona, USA",
+            "Dallas, Texas, USA"
+        ]
+    },
+    {
+        "name": "Squarespace",
+        "link": "https://www.squarespace.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Uberspace",
+        "country_of_origin": "Germany",
+        "link": "https://uberspace.de/",
+        "category": [
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Frankfurt am Main, Hesse, Germany"
+        ]
+    },
+    {
+        "name": "Webdock",
+        "link": "https://webdock.io/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "WordPress.com",
+        "link": "https://wordpress.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "WRX Online",
+        "link": "https://wrx.hu/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "NFOservers",
+        "link": "https://nfoservers.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "34SP.com",
+        "link": "",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "a2hosting.com",
+        "link": "",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Active24.co.uk",
+        "link": "",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Active24.cz",
+        "link": "",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "all-inkl.com",
+        "link": "https://all-inkl.com/",
+        "country_of_origin": "Germany",
+        "category": [
+            "dedicated",
+            "webspace",
+            "domain"
+        ],
+        "note": "",
+        "location": [
+            "Dresden, Saxony, Germany"
+        ]
+    },
+    {
+        "name": "Alephion",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "AllDomains",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "bhosted",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Blogger",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Blueboard",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Brontobytes",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Brownrice Internet",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Buyshared.net",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "bytecamp",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Canadian Domain Name Services Inc",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Campusspeicher",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Certified Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cheap Web Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "checkdomain",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cityhost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cloudcity",
+        "link": "/#",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cloudhulk",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cloudways",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Combell",
+        "link": "https://www.combell.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Configbox",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Cyon.ch",
+        "link": "https://www.cyon.ch/ssl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Deep.ch",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "DM Solutions",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Do.de",
+        "link": "https://www.do.de",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Domain & Webspace Tremmel",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Domainhizmetleri",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Domaintechnik",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Domena.pl",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Dwe Gruppe",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "EDIS.AT, Austria",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ElbiaHosting.sk",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Espace2001.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "EvenNode.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "FastComet",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Fastnom",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "FlockHosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "FlokiNET",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Flywheel",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Freethought",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Fortrabbit",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Funio.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Gandi",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "GeekGhost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "GearHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "GitHub Pages",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "GitLab",
+        "link": "https://about.gitlab.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Google App Engine",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Greengeeks",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HawkHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Heroku",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hoop.la",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Host4Geeks",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostGator",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hostin.mu",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hostineer",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hostinger",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hosting24",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hosting90 Systems",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostM.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostMantis",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostmyWebsite",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "hostNET.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hostnet (NL)",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostOne.com.br",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostPapa",
+        "link": "https://www.hostpapa.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "hostenko.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ifastnet",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ifc hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ihead.ru",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ikoula",
+        "link": "https://www.ikoula.com/en/web-hosting",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Inertia Networks",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Infomaniak",
+        "link": "https://www.infomaniak.com/gotoroutewithautolang/hosting.ssl",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Infrenion Networks",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "IPage",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Jump.bg",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "KingHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Kinsta",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "KLE-Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Kontent.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Krystal Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Level27",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Lima-city.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Limenex Web Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MadRooster.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "maxcluster",
+        "link": "https://maxcluster.de/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "mijn.host",
+        "link": "https://mijn.host/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MilesWeb",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Mittwald",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MivoCloud",
+        "link": "https://mivocloud.com/",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Chisinau, Chisinau Municipality, Moldova",
+            "Iasi, Iasi, Romania",
+            "Moscow, Moscow, Russia",
+            "Bend, Oregon, USA"
+        ]
+    },
+    {
+        "name": "MonsterMedia",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MonsterMegs",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MyDevil.net",
+        "link": "https://www.mydevil.net",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MyDreams innovations s.r.o.",
+        "link": "https://www.mydreams.cz/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "NearlyFreeSpeech.NET",
+        "link": "https://www.nearlyfreespeech.net/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Netsite",
+        "link": "https://www.netsite.dk/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Neify Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Neostrada.nl",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Netcup.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Netlify",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "NewHostServers.net",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Nexcess.net",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Ngage Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Nitrado",
+        "link": "https://nitrado.net/",
+        "category": [
+            "gameserver",
+            "voiceserver",
+            "musicbots",
+            "domains"
+        ],
+        "note": "",
+        "location": [
+            "Frankfurt am Main, Hesse, Germany",
+            "London, England, United Kingdom",
+            "New York City, New York, USA",
+            "Miami, Florida, USA",
+            "Los Angeles, California, USA",
+            "Sao Paulo, Sao Paulo, Brazil",
+            "Singapore",
+            "Sydney, New South Wales, Australia",
+            "Tokyo, Tokyo, Japan"
+        ]
+    },
+    {
+        "name": "Novatrend",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Nucleus.be",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "one.com",
+        "link": "https://www.one.com/",
+        "category": [
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Denmark"
+        ]
+    },
+    {
+        "name": "Online.net",
+        "link": "https://online.net",
+        "category": [
+            "vps",
+            "dedicated"
+        ],
+        "note": "",
+        "location": [
+            "Paris, Paris, France",
+            "Amsterdam, North Holland, The Netherlands",
+            "Warsaw, Mazovia, Poland"
+        ]
+    },
+    {
+        "name": "OVHcloud",
+        "link": "https://www.ovhcloud.com",
+        "category": [
+            "vps",
+            "dedicated",
+            "webspace",
+            "domains"
+        ],
+        "note": "",
+        "location": [
+            "Roubaix, Hauts-de-France, France",
+            "Gravelines, Hauts-de-France, France",
+            "Strasbourg, Grand Est, France",
+            "Limburg an der Lahn, Hesse, Germany",
+            "Erith, England, United Kingdom",
+            "Warsaw, Mazovia, Poland",
+            "Beauharnois, Quebec, Canada",
+            "Vint Hill, Virginia, USA",
+            "Hillsboro, Oregon, USA",
+            "Singapore",
+            "Sydney, New South Wales, Australia"
+        ]
+    },
+    {
+        "name": "pair Networks",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pantheon",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pagely",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "PeoplesHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Platform.sh",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "PlanetHoster Inc",
+        "link": "https://www.planethoster.com/en/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Professional Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pressidium",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Pressjitsu.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Presslabs.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Profihost AG",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Progreso.pl",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "PulseHeberg.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Quality Location",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "RAIDBOXES.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ReadySpace",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ReformHosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Register.it",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ResellersPanel",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "RSHosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Schokokeks.org",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Sensson",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Seravo",
+        "link": "https://seravo.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ServerPilot",
+        "link": "https://serverpilot.io/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "StoreHost",
+        "link": "https://store-host.com/",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Dietikon, Zurich, Switzerland"
+        ]
+    },
+    {
+        "name": "Serversaurus",
+        "link": "https://serversaurus.com.au/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Shopify",
+        "link": "https://www.shopify.com/pricing",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SiteGround.com",
+        "link": "https://www.siteground.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Slotex.pl",
+        "link": "https://slotex.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SnapPages",
+        "link": "https://www.snappages.net/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "snowflake Ops",
+        "link": "https://www.snowflake.com/pricing/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SpaceHost.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Squidix",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Stablehost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "stinpriza",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Strony-Domeny.pl",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Swisscom",
+        "link": "https://swisscom.ch",
+        "category": [
+            "webspace",
+            "vps"
+        ],
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "TerraNetwork Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Thecamels",
+        "link": "https://thecamels.org/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Thisistap",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Tiger Technologies",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Top Host",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Torpix Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "TransIP",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Tsohost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Tumblr",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "UnoEuro",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "UpTime Web Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "VapourHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "VeeroTech",
+        "link": "https://www.veerotech.net/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Vélhost",
+        "link": "https://velhost.fr/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Vildmarksdata Sweden",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Vimexx",
+        "link": "https://www.vimexx.nl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "VIPserv.org",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "webgo",
+        "link": "https://www.webgo.de/",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Hamburg, Free and Hanseatic City of Hamburg, Germany"
+        ]
+    },
+    {
+        "name": "WebHosting 1st",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "WebhostOne",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "WebHostUK Limited",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Websavers",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Wetopi",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "World4You Internet Services GmbH",
+        "link": "https://www.world4you.com/",
+        "category": [
+            "vps",
+            "webspace",
+            "domains"
+        ],
+        "note": "",
+        "location": [
+            "Vienna, Vienna, Austria"
+        ]
+    },
+    {
+        "name": "WPX Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Wurpe",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "WP Engine",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Zuver",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Antilope Hosting",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Eidolonhost.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "KnownHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "PlotHost",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "VentraIP Australia",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Websupport.sk",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "XS4ALL",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "XSByte",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "1and1.com",
+        "link": "https://www.ionos.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "247-host.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Amazili-communication",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "CrazyDomains",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "df.eu",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "GoDaddy",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostEurope.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HostMonster.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hostripples.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Inmotionhosting.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Namecheap.com",
+        "link": "https://www.namecheap.com/hosting/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Netsons.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Site5.com",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Strato.de",
+        "link": "/#",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "easyname",
+        "link": "https://www.easyname.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Thexyz",
+        "link": "https://www.thexyz.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Umbler",
+        "link": "https://www.umbler.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Vero Servers",
+        "link": "https://www.veroservers.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "1984 Hosting",
+        "link": "https://www.1984hosting.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "alwaysdata",
+        "link": "https://www.alwaysdata.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Wikstrom Telephone Company (Wiktel)",
+        "link": "https://wiktel.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "XMission",
+        "link": "https://www.xmission.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ICDSoft",
+        "link": "https://www.icdsoft.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Marketing One",
+        "link": "https://www.marketingone.com.au",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "signaltransmitter.de",
+        "link": "https://signaltransmitter.de",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "CA Net, Europe",
+        "link": "https://www.canet.at",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Nuclear.Hosting",
+        "link": "https://nuclear.hosting",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "HahuCloud",
+        "link": "https://www.hahucloud.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Shellrent",
+        "link": "https://www.shellrent.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "NederHost",
+        "link": "https://www.nederhost.nl",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Conetix",
+        "link": "https://conetix.com.au",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Firebase Hosting",
+        "link": "https://firebase.google.com/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Rad Web Hosting",
+        "link": "https://radwebhosting.com",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Zoner Oy",
+        "link": "https://www.zoner.fi/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "webkeeper.ch",
+        "link": "https://www.webkeeper.ch/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Clausweb",
+        "link": "https://www.clausweb.ro/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Hartserver",
+        "link": "https://hartserver.net/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "UKFast",
+        "link": "https://ukfast.co.uk/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "nazwa.pl",
+        "link": "https://nazwa.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Home.pl",
+        "link": "https://home.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "az.pl",
+        "link": "https://az.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Small.pl",
+        "link": "https://www.small.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "ct8.pl",
+        "link": "https://www.ct8.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "cyber_Folks",
+        "link": "https://cyberfolks.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SeoHost.pl",
+        "link": "https://seohost.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Kei.pl",
+        "link": "https://www.kei.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "zenbox.pl",
+        "link": "https://zenbox.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "dhosting.pl",
+        "link": "https://dhosting.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Kylos",
+        "link": "https://www.kylos.pl/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "MyHost (NZ)",
+        "link": "https://myhost.nz/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SiteHost",
+        "link": "https://sitehost.nz/",
+        "category": "",
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "Dr. Server",
+        "link": "https://drserver.net",
+        "category": [
+            "webspace",
+            "dedicated server",
+            "vps",
+            "email",
+            "ssl"
+        ],
+        "note": "",
+        "location": [
+            "USA, Dallas, TX"
+        ]
+    },
+    {
+        "name": "Inception Hosting",
+        "link": "https://inceptionhosting.com",
+        "category": [
+            "vps",
+            "webspace",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "USA, Phoenix, AZ",
+            "United Kingdom",
+            "Netherlands, Rotterdam"
+        ]
+    },
+    {
+        "name": "FlowVPS",
+        "link": "https://flowvps.com",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Melbourne, Australia"
+        ]
+    },
+    {
+        "name": "FreeRangeCloud",
+        "link": "https://freerangecloud.com",
+        "category": [
+            "vps",
+            "lir",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "Toronto, Canada",
+            "Winnipeg, Canada",
+            "Vancouver, Canada"
+        ]
+    },
+    {
+        "name": "ExtraVM",
+        "link": "https://extravm.com",
+        "category": [
+            "vps",
+            "Game Server",
+            "webspace",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Dallas, Texas, USA",
+            "Vint Hill, Virginia, USA",
+            "Miami, Florida, USA",
+            "Los Angeles, California, USA",
+            "Beauharnois, Quebec, Canada",
+            "Erith, England, United Kingdom",
+            "Gravelines, Hauts-de-France, France",
+            "Singapore",
+            "Sydney, New South Wales, Australia",
+            "Tokyo, Tokyo, Japan"
+        ]
+    },
+    {
+        "name": "NexusBytes",
+        "link": "https://nexusbytes.com",
+        "category": [
+            "webspace",
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Singapore",
+            "Tokyo, Japan",
+            "Melbourne, Australia",
+            "Netherlands, Naaldwijk",
+            "United Kingdom",
+            "USA Los Angeles",
+            "USA Miami",
+            "USA New York"
+        ]
+    },
+    {
+        "name": "X4B",
+        "link": "https://www.x4b.net",
+        "category": [
+            "DDOS Protection"
+        ],
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "SSDBlaze",
+        "link": "https://ssdblaze.com",
+        "category": [
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "USA, Dallas, TX",
+            "USA New York"
+        ]
+    },
+    {
+        "name": "BuyVM",
+        "link": "/#",
+        "category": [
+            "dedicated server",
+            "webspace",
+            "Block Storage"
+        ],
+        "note": "",
+        "location": [
+            "Las Vegas, Nevada, USA",
+            "New York City, New York, USA",
+            "Miami, Florida, USA",
+            "Bissen, Mersch, Luxembourg"
+        ]
+    },
+    {
+        "name": "LaunchVPS",
+        "link": "https://launchvps.com",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "USA Philadelphia"
+        ]
+    },
+    {
+        "name": "ExonHost",
+        "link": "/#",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server",
+            "email",
+            "ssl"
+        ],
+        "note": "",
+        "location": [
+            "India Bangladesh",
+            "USA, Dallas, TX",
+            "germany",
+            "USA Los Angeles",
+            "USA New Jersey",
+            "USA Tampa",
+            "Singapore",
+            "USA Utah"
+        ]
+    },
+    {
+        "name": "HostEons",
+        "link": "https://hosteons.com",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "USA Los Angeles",
+            "USA Las Vegas",
+            "USA, Dallas, TX",
+            "USA Jacksonvill"
+        ]
+    },
+    {
+        "name": "Smarthost",
+        "link": "https://smarthost.net",
+        "category": [
+            "vps",
+            "dedicated server",
+            "ssl",
+            "colocation"
+        ],
+        "note": "",
+        "location": []
+    },
+    {
+        "name": "KTS24",
+        "link": "https://kts24.com",
+        "country_of_origin": "Germany",
+        "category": [
+            "vps",
+            "colocation",
+            "dedicated"
+        ],
+        "note": "",
+        "location": [
+            "Eygelshoven, The Netherlands"
+        ]
+    },
+    {
+        "name": "Liteserver",
+        "link": "https://liteserver.nl/",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Groningen, The Netherlands",
+            "Amsterdam, The Netherlands",
+            "Dronten, The Netherlands"
+        ]
+    },
+    {
+        "name": "Dedispec",
+        "link": "https://dedispec.com",
+        "country_of_origin": "The Netherlands",
+        "category": [
+            "dedicated",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "USA, Dallas, TX",
+            "USA, West Virginia, WV",
+            "USA, Missouri, MO"
+        ]
+    },
+    {
+        "name": "Pure Voltage",
+        "link": "https://purevoltage.com",
+        "country_of_origin": "USA, Dellaware",
+        "category": [
+            "dedicated",
+            "colocation",
+            "vps",
+            "webhosting"
+        ],
+        "note": "",
+        "location": [
+            "USA, New York City, NY",
+            "USA, Seattle, SW",
+            "USA, Dallas, TX",
+            "Amsterdam, The Netherlands",
+            "USA, Chicago, "
+        ]
+    }
+]
