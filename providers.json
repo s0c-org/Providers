@@ -1,5 +1,18 @@
 [
     {
+        "name": "hyperexpert",
+        "link": "https://hyperexpert.com/",
+        "country_of_origin": "Seattle, WA, USA",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Tukwila, WA, USA"
+        ]
+    },
+    {
         "name": "BudgetNode",
         "link": "https://budgetnode.com",
         "country_of_origin": "United Kingdom, UK",
