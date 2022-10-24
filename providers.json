@@ -1,5 +1,17 @@
 [
     {
+        "name": "Skylon Host",
+        "link": "https://skylonhost.com",
+        "country_of_origin": "Czech Republic",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Prague, CZ"
+        ]
+    },
+    {
         "name": "Other",
         "link": "/#",
         "country_of_origin": "N/A",
@@ -2349,7 +2361,6 @@
             "Finland",
             "France",
             "Asia"
-
         ]
     }
 ]
