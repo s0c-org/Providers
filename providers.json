@@ -1,5 +1,21 @@
 [
     {
+        "name": "hostworld",
+        "link": "https://hostworld.uk/",
+        "country_of_origin": "United Kingdom",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "London, England, United Kingdom",
+            "Los Angeles, California, USA",
+            "Chicago, IL, USA",
+            "New York City, New York, USA"
+        ]
+    },
+    {
         "name": "Liga Hosting",
         "link": "https://ligahosting.ro/",
         "country_of_origin": "Romania",
