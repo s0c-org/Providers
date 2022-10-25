@@ -1,4 +1,19 @@
 [
+        {
+            "name": "Hyonix",
+            "link": "https://hyonix.com",
+            "country_of_origin": "USA",
+            "category": [
+                "vps"
+            ],
+            "note": "",
+            "location": [
+                "London, Docklands 1, United Kingdom",
+                "California, USA",
+                "Texas, USA",
+                "Virginia, USA"
+            ]
+        },
     {
         "name": "Misaka",
         "link": "https://www.misaka.io",
