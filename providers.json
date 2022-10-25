@@ -1,5 +1,28 @@
 [
     {
+        "name": "Misaka",
+        "link": "https://www.misaka.io",
+        "country_of_origin": "USA",
+        "category": [
+            "Cloud"
+        ],
+        "note": "",
+        "location": [
+            "Ashburn, Virginia, USA",
+            "Secaucus, New Jersey, USA",
+            "San Jose, CA, USA",
+            "Kansas City, MO, USA",
+            "Amsterdam, North Holland, The Netherlands",
+            "London, England, United Kingdom",
+            "Hong Kong",
+            "Tokyo, Japan",
+            "Singapore",
+            "Sao Paulo, Sao Paulo, Brazil",
+            "Moscow, Moscow, Russia",
+            "Johannesburg, South Afrika"
+        ]
+    },
+    {
         "name": "RamNode",
         "link": "https://ramnode.com/",
         "country_of_origin": "USA",
