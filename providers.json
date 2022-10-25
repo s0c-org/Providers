@@ -1,5 +1,18 @@
 [
     {
+        "name": "hostbastic",
+        "link": "https://hostbastic.com/",
+        "country_of_origin": "United Kingdom, UK",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Gravelines, Hauts-de-France, France"
+        ]
+    },
+    {
         "name": "reliablesite",
         "link": "https://www.reliablesite.net/",
         "country_of_origin": "USA",
