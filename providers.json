@@ -1,5 +1,23 @@
 [
     {
+        "name": "FiberHub",
+        "link": "https://fiberhub.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "colocation",
+            "DDOS Protection"
+        ],
+        "note": "",
+        "location": [
+            "Las Vegas, Nevada, USA",
+            "Dallas, Texas, USA",
+            "Seatle, Washington, USA",
+            "Miami, Florida, USA",
+            "Los Angeles, California, USA"
+
+        ]
+    },
+    {
         "name": "SoftShellWeb",
         "link": "https://softshellweb.com/",
         "country_of_origin": "United Kingdom, UK",
