@@ -1,5 +1,19 @@
 [
     {
+        "name": "Hostyd",
+        "link": "https://hostyd.org",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "dedicated server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Seacaucus, New Jersey, USA"
+        ]
+    },
+    {
         "name": "Servarica",
         "link": "https://servarica.com",
         "country_of_origin": "Canada",
