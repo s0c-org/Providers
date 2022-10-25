@@ -1,18 +1,16 @@
 [
     {
-        "name": "Host Mayo",
-        "link": "https://hostmayo.com/",
-        "country_of_origin": "USA",
+        "name": "gnu-host",
+        "link": "https://gnu-host.com",
+        "country_of_origin": "Congleton, UK",
         "category": [
             "webspace",
-            "vps",
-            "dedicated server"
+            "vps"
         ],
         "note": "",
         "location": [
-            "Los Angeles, California, USA",
-            "The Netherlands",
-            "New York City, New York, USA"
+            "London, England, United Kingdom",
+            "Coventry, England, United Kingdom"
         ]
     },
     {
