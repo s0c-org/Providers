@@ -1,5 +1,22 @@
 [
     {
+        "name": "Greencloud VPS",
+        "link": "https://greencloudvps.com/",
+        "country_of_origin": "Lewes, DE, USA",
+        "category": [
+            "vps",
+            "dedicated server",
+            "Proxie"
+        ],
+        "note": "",
+        "location": [
+            "Jacksonvill, Florida, USA",
+            "Amsterdam, North Holland, The Netherlands",
+            "Chicago, IL, USA",
+            "Buffalo, New York, USA"
+        ]
+    },
+    {
         "name": "Little Creek Hosting",
         "link": "https://www.littlecreekhosting.com/",
         "country_of_origin": "Mechanicsville, VA, USA",
