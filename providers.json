@@ -1,5 +1,30 @@
 [
     {
+        "name": "Shock Hosting",
+        "link": "https://shockhosting.net/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "dedicated server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Piscataway, NJ, USA",
+            "Jacksonvill, Florida, USA",
+            "Maidenhead, United Kingdom, UK",
+            "Los Angeles, California, USA",
+            "Denver, CO, USA",
+            "Singapore",
+            "West Chicago, IL, USA",
+            "Seatle, Washington, USA",
+            "Sydney, Australia",
+            "Dallas, Texas, USA",
+            "Amsterdam, North Holland, The Netherlands",
+            "Tokyo, Japan"
+        ]
+    },
+    {
         "name": "Alba Hosting",
         "link": "https://www.albahost.net/",
         "country_of_origin": "Gjakova, Kosovo",
