@@ -1,12 +1,25 @@
 [
     {
+        "name": "indovirtue",
+        "link": "https://indovirtue.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "dedicated server",
+            "Game Server"
+        ],
+        "note": "",
+        "location": [
+            "Singapore"
+        ]
+    },
+    {
         "name": "owned-networks",
         "link": "https://www.owned-networks.net/",
         "country_of_origin": "USA",
         "category": [
             "vps",
-            "dedicated server",
-            "lir"
+            "dedicated server"
         ],
         "note": "",
         "location": [
