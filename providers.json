@@ -1,5 +1,19 @@
 [
     {
+        "name": "GeorgeDatacenter",
+        "link": "https://georgedatacenter.com",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated server",
+            "lir"
+        ],
+        "note": "",
+        "location": [
+            "Dallas, Texas, USA"
+        ]
+    },
+    {
         "name": "Hostyd",
         "link": "https://hostyd.org",
         "country_of_origin": "Unknown",
