@@ -1,5 +1,21 @@
 [
     {
+        "name": "Host Mayo",
+        "link": "https://hostmayo.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "The Netherlands",
+            "New York City, New York, USA"
+        ]
+    },
+    {
         "name": "MyRoot",
         "link": "https://myroot.pw/",
         "country_of_origin": "Vienna, Austria",
