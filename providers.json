@@ -1,5 +1,27 @@
 [
     {
+        "name": "ransomIT",
+        "link": "https://www.ransomit.com.au/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "colocation",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Sidney, Australia",
+            "Adelaide, Austraila",
+            "Melbourne, Australia",
+            "Perth, Australia",
+            "Brisbane, Australia",
+            "Hong Kong, China",
+            "Aukland, New Zealand",
+            "Singapore",
+            "Tokyo, Japan"
+        ]
+    },
+    {
         "name": "hostmayo",
         "link": "https://hostmayo.com/",
         "country_of_origin": "Walton, UK",
@@ -155,7 +177,7 @@
             "Washington, DC, USA",
             "London, England, United Kingdom",
             "Amsterdam, North Holland, The Netherlands",
-            "Hong Kong",
+            "Hong Kong, China",
             "Sidney, Australia",
             "Singapore"
         ]
@@ -310,7 +332,7 @@
         ],
         "note": "",
         "location": [
-            "Hong Kong",
+            "Hong Kong, China",
             "Tokyo, Japan",
             "Osaka, Japan",
             "Sidney, Australia",
@@ -504,7 +526,7 @@
             "Dublin, Leinster, Ireland",
             "London, England, United Kingdom",
             "Amsterdam, North Holland, The Netherlands",
-            "Hong Kong",
+            "Hong Kong, China",
             "Seoul, SK",
             "Singapore",
             "Tokyo, Japan"
@@ -731,7 +753,7 @@
             "Kansas City, MO, USA",
             "Amsterdam, North Holland, The Netherlands",
             "London, England, United Kingdom",
-            "Hong Kong",
+            "Hong Kong, China",
             "Tokyo, Japan",
             "Singapore",
             "Sao Paulo, Sao Paulo, Brazil",
