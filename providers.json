@@ -1,10 +1,11 @@
 [
     {
-        "name": "Wishosting",
-        "link": "https://www.wishosting.com/",
-        "country_of_origin": "New Zealand",
+        "name": "HappyBeeHost",
+        "link": "https://happybeehost.com/",
+        "country_of_origin": " Kochi in Kerala, India",
         "category": [
-            "vps"
+            "vps",
+            "dedicated server"
         ],
         "note": "",
         "location": [
