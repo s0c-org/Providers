@@ -1,5 +1,20 @@
 [
     {
+        "name": "CloudCone",
+        "link": "https://cloudcone.com/",
+        "country_of_origin": "Sheridan, USA",
+        "category": [
+            "vps",
+            "dedicated server",
+            "email",
+            "DDOS Protection"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "ransomIT",
         "link": "https://www.ransomit.com.au/",
         "country_of_origin": "Unknown",
