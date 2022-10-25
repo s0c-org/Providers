@@ -1,5 +1,19 @@
 [
     {
+        "name": "VPS Aliens",
+        "link": "https://vpsaliens.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "Game Server",
+            "email"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "EDV-Froehlich",
         "link": "https://www.edv-froehlich.de/",
         "country_of_origin": "Germany",
