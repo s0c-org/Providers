@@ -1,5 +1,19 @@
 [
     {
+        "name": "EDV-Froehlich",
+        "link": "https://www.edv-froehlich.de/",
+        "country_of_origin": "Germany",
+        "category": [
+            "vps",
+            "webspace",
+            "lir"
+        ],
+        "note": "",
+        "location": [
+            "Germany"
+        ]
+    },
+    {
         "name": "DesiVps",
         "link": "https://www.desivps.com/",
         "country_of_origin": "Maharashtra, India",
