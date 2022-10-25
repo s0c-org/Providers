@@ -1,5 +1,22 @@
 [
     {
+        "name": "xenspec",
+        "link": "https://xenspec.com/",
+        "country_of_origin": "Chicago, USA",
+        "category": [
+            "vps",
+            "dedicated server",
+            "Cloud",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "Chicago, USA",
+            "San Jose, CA, USA",
+            "Los Angeles, California, USA"
+        ]
+    },
+    {
         "name": "teraswitch",
         "link": "https://teraswitch.com/",
         "country_of_origin": "Unknown",
