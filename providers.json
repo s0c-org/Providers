@@ -1,5 +1,19 @@
 [
     {
+        "name": "hostodo",
+        "link": "https://hostodo.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Las Vegas, Nevada, USA",
+            "Miami, Florida, USA",
+            "Spokane, WA, USA"
+        ]
+    },
+    {
         "name": "Zade Servers",
         "link": "https://my.zadeservers.net/",
         "country_of_origin": "Unknown",
