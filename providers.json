@@ -1,5 +1,28 @@
 [
     {
+        "name": "VisualWebTechnologies",
+        "link": "https://visualwebtechnologies.com/",
+        "country_of_origin": "Punjab, India",
+        "category": [
+            "vps",
+            "dedicated server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "Atlanta, Georgia, USA",
+            "Frankfurt am Main, Hesse, Germany",
+            "Amsterdam, North Holland, The Netherlands",
+            "New York City, New York, USA",
+            "Dallas, Texas, USA",
+            "Jacksonvill, Florida, USA",
+            "Denver, CO, USA",
+            "Seatle, Washington, USA",
+            "San Jose, CA, USA"
+        ]
+    },
+    {
         "name": "xenspec",
         "link": "https://xenspec.com/",
         "country_of_origin": "Chicago, USA",
