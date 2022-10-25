@@ -1,5 +1,19 @@
 [
     {
+        "name": "Little Creek Hosting",
+        "link": "https://www.littlecreekhosting.com/",
+        "country_of_origin": "Mechanicsville, VA, USA",
+        "category": [
+            "vps",
+            "webspace",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "MaxKVM",
         "link": "https://www.maxkvm.com/",
         "country_of_origin": "Walnut, CA, USA",
