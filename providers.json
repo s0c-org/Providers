@@ -1,5 +1,19 @@
 [
     {
+        "name": "bloom host",
+        "link": "https://bloom.host/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "Game Server",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "vpsdime",
         "link": "https://vpsdime.com/",
         "country_of_origin": "Unknown",
