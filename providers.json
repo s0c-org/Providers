@@ -1,5 +1,26 @@
 [
     {
+        "name": "owned-networks",
+        "link": "https://www.owned-networks.net/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "dedicated server",
+            "lir"
+        ],
+        "note": "",
+        "location": [
+            "Lenoir, North Carolina, USA",
+            "Dallas, Texas, USA",
+            "Miami, Florida, USA",
+            "New York City, New York, USA",
+            "Los Angeles, California, USA",
+            "Seatle, Washington, USA",
+            "Amsterdam, North Holland, The Netherlands",
+            "London, England, United Kingdom"
+        ]
+    },
+    {
         "name": "GeorgeDatacenter",
         "link": "https://georgedatacenter.com",
         "country_of_origin": "USA",
