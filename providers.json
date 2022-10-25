@@ -1,5 +1,17 @@
 [
     {
+        "name": "Wishosting",
+        "link": "https://www.wishosting.com/",
+        "country_of_origin": "New Zealand",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "Webhorizon",
         "link": "https://webhorizon.in/",
         "country_of_origin": "Navi Mumbai, India",
