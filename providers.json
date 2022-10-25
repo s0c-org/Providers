@@ -1267,11 +1267,18 @@
         "location": []
     },
     {
-        "name": "Active24.co.uk",
-        "link": "",
-        "category": [],
+        "name": "Active24",
+        "link": "https://www.active24.co.uk/",
+        "country_of_origin": "Prague",
+        "category": [
+            "webspace",
+            "vps",
+            "email"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "Unknown"
+        ]
     },
     {
         "name": "Active24.cz",
