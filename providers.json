@@ -1,5 +1,21 @@
 [
     {
+        "name": "hostmayo",
+        "link": "https://hostmayo.com/",
+        "country_of_origin": "Walton, UK",
+        "category": [
+            "webspace",
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "The Netherlands",
+            "New York City, New York, USA"
+        ]
+    },
+    {
         "name": "gnu-host",
         "link": "https://gnu-host.com",
         "country_of_origin": "Congleton, UK",
