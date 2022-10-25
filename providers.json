@@ -1,5 +1,17 @@
 [
     {
+        "name": "GestionDBI",
+        "link": "https://gestiondbi.com/",
+        "country_of_origin": "Montreal",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Montreal"
+        ]
+    },
+    {
         "name": "indovirtue",
         "link": "https://indovirtue.com/",
         "country_of_origin": "Unknown",
