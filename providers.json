@@ -1,5 +1,17 @@
 [
     {
+        "name": "Zade Servers",
+        "link": "https://my.zadeservers.net/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Germany"
+        ]
+    },
+    {
         "name": "LeapSwitch",
         "link": "https://leapswitch.com/",
         "country_of_origin": "USA",
