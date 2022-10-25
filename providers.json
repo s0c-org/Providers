@@ -2642,11 +2642,25 @@
         ]
     },
     {
-        "name": "247-host.com",
-        "link": "/#",
-        "category": [],
+        "name": "247-Host",
+        "link": "https://www.247-host.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "dedicated server",
+            "webspace"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "Chicago, IL, USA",
+            "Los Angeles, California, USA",
+            "Phoenix, Arizona, USA",
+            "Atlanta, Georgia, USA",
+            "Montreal, Canada",
+            "London, England, United Kingdom",
+            "Amsterdam, North Holland, The Netherlands",
+            "Singapore"
+        ]
     },
     {
         "name": "Amazili-communication",
