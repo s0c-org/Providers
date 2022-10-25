@@ -1,5 +1,18 @@
 [
     {
+        "name": "Alwyzon",
+        "link": "https://www.alwyzon.com/",
+        "country_of_origin": "Vienna, Austria",
+        "category": [
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Vienna, Vienna, Austria"
+        ]
+    },
+    {
         "name": "CloudCone",
         "link": "https://cloudcone.com/",
         "country_of_origin": "Sheridan, USA",
