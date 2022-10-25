@@ -1,5 +1,20 @@
 [
     {
+        "name": "SoftShellWeb",
+        "link": "https://softshellweb.com/",
+        "country_of_origin": "United Kingdom, UK",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Amsterdam, North Holland, The Netherlands",
+            "San Jose, CA, USA",
+            "TaiPei, Taiwan"
+        ]
+    },
+    {
         "name": "hostbastic",
         "link": "https://hostbastic.com/",
         "country_of_origin": "United Kingdom, UK",
