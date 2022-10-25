@@ -1,4 +1,20 @@
 [
+        {
+            "name": "artnet",
+            "link": "https://www.artnet.pl/",
+            "country_of_origin": "Poland",
+            "category": [
+                "vps",
+                "dedicated server",
+                "gpu server"
+            ],
+            "note": "",
+            "location": [
+                "Gdynia, Poland",
+                "Gdańsk, Poland"
+
+            ]
+        },
     {
         "name": "HostHatch",
         "link": "https://hosthatch.com/",
