@@ -1,5 +1,22 @@
 [
     {
+        "name": "Letbox",
+        "link": "https://letbox.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "vps",
+            "webspace",
+            "dedicated server",
+            "lir",
+            "colocation"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "Dallas, Texas, USA"
+        ]
+    },
+    {
         "name": "GestionDBI",
         "link": "https://gestiondbi.com/",
         "country_of_origin": "Montreal",
