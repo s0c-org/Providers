@@ -1,5 +1,19 @@
 [
     {
+        "name": "Xethost",
+        "link": "https://xethost.com/",
+        "country_of_origin": "Nawala Sri Lanka",
+        "category": [
+            "vps",
+            "email",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Budapest, Hungary"
+        ]
+    },
+    {
         "name": "HandyHost",
         "link": "https://handyhost.net/",
         "country_of_origin": "Nawala Sri Lanka",
