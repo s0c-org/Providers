@@ -1,5 +1,19 @@
 [
     {
+        "name": "hosterlabs",
+        "link": "https://hosterlabs.net/",
+        "country_of_origin": "Lewes, DE, USA",
+        "category": [
+            "dedicated server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Guadalajara, Mexico",
+            "Montreal, Canada"
+        ]
+    },
+    {
         "name": "Greencloud VPS",
         "link": "https://greencloudvps.com/",
         "country_of_origin": "Lewes, DE, USA",
