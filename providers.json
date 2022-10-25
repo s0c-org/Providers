@@ -1,5 +1,31 @@
 [
     {
+        "name": "HostHatch",
+        "link": "https://hosthatch.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Amsterdam, North Holland, The Netherlands",
+            "Stockholm, Sweden",
+            "Los Angeles, California, USA",
+            "Chicago, IL, USA",
+            "Vienna, Vienna, Austria",
+            "Olso, Oslo, Norway",
+            "London, England, United Kingdom",
+            "Dietikon, Zurich, Switzerland",
+            "Warsaw, Mazovia, Poland",
+            "Madrid, Spain",
+            "Milan, Italy",
+            "Hong Kong, China",
+            "Singapore",
+            "Tokyo, Japan",
+            "Sydney, Australia"
+        ]
+    },
+    {
         "name": "Alwyzon",
         "link": "https://www.alwyzon.com/",
         "country_of_origin": "Vienna, Austria",
