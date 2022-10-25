@@ -1,5 +1,30 @@
 [
     {
+        "name": "teraswitch",
+        "link": "https://teraswitch.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps",
+            "Game Server",
+            "email"
+        ],
+        "note": "",
+        "location": [
+            "Pitsburg, PA, USA",
+            "Philadelphia, PA, USA",
+            "Newark, NJ, USA",
+            "Los Angeles, California, USA",
+            "Dallas, Texas, USA",
+            "Dublin, Leinster, Ireland",
+            "London, England, United Kingdom",
+            "Amsterdam, North Holland, The Netherlands",
+            "Hong Kong",
+            "Seoul, SK",
+            "Singapore",
+            "Tokyo, Japan"
+        ]
+    },
+    {
         "name": "VPS Aliens",
         "link": "https://vpsaliens.com/",
         "country_of_origin": "Unknown",
