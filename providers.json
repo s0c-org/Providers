@@ -1,5 +1,21 @@
 [
     {
+        "name": "nexaracks",
+        "link": "https://nexaracks.com/",
+        "country_of_origin": "Uttar Pradesh, India",
+        "category": [
+            "vps",
+            "dedicated server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "USA",
+            "India",
+            "Germany"
+        ]
+    },
+    {
         "name": "hostworld",
         "link": "https://hostworld.uk/",
         "country_of_origin": "United Kingdom",
