@@ -1,5 +1,19 @@
 [
     {
+        "name": "HostSlick",
+        "link": "https://hostslick.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "webspace",
+            "dedicated server",
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Lelystad, Flevoland, The Netherlands"
+        ]
+    },
+    {
         "name": "1tbvps",
         "link": "https://1tbvps.com/",
         "country_of_origin": "Unknown",
