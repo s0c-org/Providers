@@ -1,5 +1,26 @@
 [
     {
+        "name": "LeapSwitch",
+        "link": "https://leapswitch.com/",
+        "country_of_origin": "Uttar Pradesh, India",
+        "category": [
+            "vps",
+            "dedicated server",
+            "email",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Mumbai, India",
+            "Pune, India",
+            "Delhi, India",
+            "Los Angeles, California, USA",
+            "Ashevill, NC, USA",
+            "Lisbon, Portugal",
+            "Kiev, Ukraine"
+        ]
+    },
+    {
         "name": "nexaracks",
         "link": "https://nexaracks.com/",
         "country_of_origin": "Uttar Pradesh, India",
