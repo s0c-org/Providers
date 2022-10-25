@@ -1,5 +1,18 @@
 [
     {
+        "name": "AnyDomain",
+        "link": "https://anydomain.net/",
+        "country_of_origin": "Albuquerque, USA",
+        "category": [
+            "webspace",
+            "email"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "VisualWebTechnologies",
         "link": "https://visualwebtechnologies.com/",
         "country_of_origin": "Punjab, India",
