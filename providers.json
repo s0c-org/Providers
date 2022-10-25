@@ -1,15 +1,18 @@
 [
     {
-        "name": "VersaWeb",
-        "link": "https://versaweb.com/",
+        "name": "tzulo",
+        "link": "https://www.tzulo.com/",
         "country_of_origin": "USA",
         "category": [
             "dedicated server",
+            "Cloud",
+            "lir",
             "DDOS Protection"
         ],
         "note": "",
         "location": [
-            "Las Vegas, Nevada, USA"
+            "Chicago, IL, USA",
+            "Los Angeles, California, USA"
         ]
     },
     {
