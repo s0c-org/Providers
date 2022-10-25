@@ -1,5 +1,27 @@
 [
     {
+        "name": "HostUS",
+        "link": "https://hostus.us/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "webspace",
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Atlanta, Georgia, USA",
+            "Charlotte, USA",
+            "Dallas, Texas, USA",
+            "Los Angeles, California, USA",
+            "Washington, DC, USA",
+            "London, England, United Kingdom",
+            "Amsterdam, North Holland, The Netherlands",
+            "Hong Kong",
+            "Sidney, Australia",
+            "Singapore"
+        ]
+    },
+    {
         "name": "KnownHost",
         "link": "https://www.knownhost.com/",
         "country_of_origin": "Unknown",
