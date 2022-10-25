@@ -1,5 +1,18 @@
 [
     {
+        "name": "VersaWeb",
+        "link": "https://versaweb.com/",
+        "country_of_origin": "USA",
+        "category": [
+            "dedicated server",
+            "DDOS Protection"
+        ],
+        "note": "",
+        "location": [
+            "Las Vegas, Nevada, USA"
+        ]
+    },
+    {
         "name": "FiberHub",
         "link": "https://fiberhub.com/",
         "country_of_origin": "USA",
@@ -14,7 +27,6 @@
             "Seatle, Washington, USA",
             "Miami, Florida, USA",
             "Los Angeles, California, USA"
-
         ]
     },
     {
