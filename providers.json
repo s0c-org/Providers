@@ -1,5 +1,19 @@
 [
     {
+        "name": "Liga Hosting",
+        "link": "https://ligahosting.ro/",
+        "country_of_origin": "Romania",
+        "category": [
+            "vps",
+            "Game Server",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "xtom",
         "link": "https://xtom.com/",
         "country_of_origin": "Brazil",
