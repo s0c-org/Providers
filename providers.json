@@ -2625,11 +2625,21 @@
         "location": []
     },
     {
-        "name": "1and1.com",
-        "link": "https://www.ionos.com",
-        "category": [],
+        "name": "ionos",
+        "link": "https://www.ionos.com/",
+        "country_of_origin": "Philadelphia, USA",
+        "category": [
+            "vps",
+            "webspace",
+            "dedicated server",
+            "email",
+            "Cloud"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "USA",
+            "Europe"
+        ]
     },
     {
         "name": "247-host.com",
