@@ -1,5 +1,17 @@
 [
     {
+        "name": "1tbvps",
+        "link": "https://1tbvps.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Unknown"
+        ]
+    },
+    {
         "name": "hostodo",
         "link": "https://hostodo.com/",
         "country_of_origin": "Unknown",
