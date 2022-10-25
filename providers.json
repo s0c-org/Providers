@@ -1,5 +1,21 @@
 [
     {
+        "name": "DesiVps",
+        "link": "https://www.desivps.com/",
+        "country_of_origin": "Maharashtra, India",
+        "category": [
+            "vps",
+            "Cloud",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Los Angeles, California, USA",
+            "The Hague, The Netherlands",
+            "Andhra Pradesh, India"
+        ]
+    },
+    {
         "name": "HappyBeeHost",
         "link": "https://happybeehost.com/",
         "country_of_origin": " Kochi in Kerala, India",
