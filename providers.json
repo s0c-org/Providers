@@ -2752,10 +2752,16 @@
     },
     {
         "name": "1984 Hosting",
-        "link": "https://www.1984hosting.com",
-        "category": [],
+        "link": "https://1984.hosting/",
+        "country_of_origin": "Reykjavík ICELAND",
+        "category": [
+            "webspace",
+            "vps"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "Unknown"
+        ]
     },
     {
         "name": "alwaysdata",
