@@ -1,5 +1,22 @@
 [
     {
+        "name": "vpsdime",
+        "link": "https://vpsdime.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "vps"
+        ],
+        "note": "",
+        "location": [
+            "Dallas, Texas, USA",
+            "Los Angeles, California, USA",
+            "Amsterdam, North Holland, The Netherlands",
+            "Seatle, Washington, USA",
+            "New Jersey, USA",
+            "London, England, United Kingdom"
+        ]
+    },
+    {
         "name": "HostUS",
         "link": "https://hostus.us/",
         "country_of_origin": "Unknown",
