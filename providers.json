@@ -1,5 +1,19 @@
 [
     {
+        "name": "Anynode",
+        "link": "https://anynode.net/",
+        "country_of_origin": "Nawala Sri Lanka",
+        "category": [
+            "vps",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Las Vegas, Nevada, USA",
+            "Miami, Florida, USA"
+        ]
+    },
+    {
         "name": "Xethost",
         "link": "https://xethost.com/",
         "country_of_origin": "Nawala Sri Lanka",
