@@ -1,5 +1,20 @@
 [
     {
+        "name": "PurpleHost",
+        "link": "https://purplehost.com.br/",
+        "country_of_origin": "Brazil",
+        "category": [
+            "dedicated server",
+            "Game Server"
+        ],
+        "note": "",
+        "location": [
+            "Canada",
+            "Sao Paulo, Sao Paulo, Brazil",
+            "Singapore"
+        ]
+    },
+    {
         "name": "tzulo",
         "link": "https://www.tzulo.com/",
         "country_of_origin": "USA",
