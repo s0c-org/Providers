@@ -1,5 +1,23 @@
 [
     {
+        "name": "MaxKVM",
+        "link": "https://www.maxkvm.com/",
+        "country_of_origin": "Walnut, CA, USA",
+        "category": [
+            "vps",
+            "Game Server",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Amsterdam, North Holland, The Netherlands",
+            "Dallas, Texas, USA",
+            "Los Angeles, California, USA",
+            "New York City, New York, USA",
+            "Singapore"
+        ]
+    },
+    {
         "name": "bloom host",
         "link": "https://bloom.host/",
         "country_of_origin": "USA",
