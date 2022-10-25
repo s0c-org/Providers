@@ -1,5 +1,20 @@
 [
     {
+        "name": "MyRoot",
+        "link": "https://myroot.pw/",
+        "country_of_origin": "Vienna, Austria",
+        "category": [
+            "webspace",
+            "lir",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Austria",
+            "USA"
+        ]
+    },
+    {
         "name": "hosterlabs",
         "link": "https://hosterlabs.net/",
         "country_of_origin": "Lewes, DE, USA",
