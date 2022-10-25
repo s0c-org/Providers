@@ -1,5 +1,37 @@
 [
     {
+        "name": "reliablesite",
+        "link": "https://www.reliablesite.net/",
+        "country_of_origin": "USA",
+        "category": [
+            "dedicated server",
+            "DDOS Protection",
+            "Game Server"
+        ],
+        "note": "",
+        "location": [
+            "New York City, Metro, USA",
+            "Miami, Florida, USA",
+            "Los Angeles, California, USA",
+            "California, USA"
+        ]
+    },
+    {
+        "name": "naranjatech",
+        "link": "https://naranja.tech/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "webspace",
+            "email"
+        ],
+        "note": "",
+        "location": [
+            "Dronten, The Netherlands",
+            "Amsterdam, North Holland, The Netherlands",
+            "Groningen, Groningen, The Netherlands"
+        ]
+    },
+    {
         "name": "AnyDomain",
         "link": "https://anydomain.net/",
         "country_of_origin": "Albuquerque, USA",
