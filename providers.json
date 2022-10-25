@@ -1,5 +1,19 @@
 [
     {
+        "name": "Scaleway",
+        "link": "https://www.scaleway.com/en/",
+        "country_of_origin": "United Kingdom",
+        "category": [
+            "vps",
+            "Cloud",
+            "dedicated server"
+        ],
+        "note": "",
+        "location": [
+            "Paris, France"
+        ]
+    },
+    {
         "name": "Shock Hosting",
         "link": "https://shockhosting.net/",
         "country_of_origin": "Unknown",
