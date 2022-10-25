@@ -1248,10 +1248,16 @@
     },
     {
         "name": "34SP.com",
-        "link": "",
-        "category": [],
+        "link": "https://www.34sp.com/",
+        "country_of_origin": "Manchester",
+        "category": [
+            "webspace",
+            "vps"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "Unknown"
+        ]
     },
     {
         "name": "a2hosting.com",
