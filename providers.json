@@ -1281,13 +1281,6 @@
         ]
     },
     {
-        "name": "Active24.cz",
-        "link": "",
-        "category": [],
-        "note": "",
-        "location": []
-    },
-    {
         "name": "all-inkl.com",
         "link": "https://all-inkl.com/",
         "country_of_origin": "Germany",
@@ -1302,18 +1295,29 @@
         ]
     },
     {
-        "name": "Alephion",
-        "link": "/#",
-        "category": [],
-        "note": "",
-        "location": []
+        "name": "alephion",
+        "link": "https://www.alephion.com/",
+        "country_of_origin": "Unknown",
+        "category": [
+            "webspace"
+        ],
+        "note": "unsecure SSL",
+        "location": [
+            "Unknown"
+        ]
     },
     {
         "name": "AllDomains",
-        "link": "/#",
-        "category": [],
+        "link": "https://alldomains.hosting/",
+        "country_of_origin": "Germany",
+        "category": [
+            "webspace",
+            "email"
+        ],
         "note": "",
-        "location": []
+        "location": [
+            "Unknown"
+        ]
     },
     {
         "name": "bhosted",
