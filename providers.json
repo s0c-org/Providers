@@ -1,5 +1,20 @@
 [
     {
+        "name": "HandyHost",
+        "link": "https://handyhost.net/",
+        "country_of_origin": "Nawala Sri Lanka",
+        "category": [
+            "vps",
+            "webspace"
+        ],
+        "note": "",
+        "location": [
+            "Germany",
+            "Finland",
+            "Canada"
+        ]
+    },
+    {
         "name": "Scaleway",
         "link": "https://www.scaleway.com/en/",
         "country_of_origin": "United Kingdom",
