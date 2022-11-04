@@ -2,10 +2,10 @@
     {
         "name": "Anynode",
         "link": "https://anynode.net/",
-        "country_of_origin": "Nawala Sri Lanka",
+        "country_of_origin": "Unknown",
         "category": [
             "vps",
-            "dedicated server"
+            "dedicated"
         ],
         "note": "",
         "location": [
@@ -16,44 +16,47 @@
     {
         "name": "Xethost",
         "link": "https://xethost.com/",
-        "country_of_origin": "Nawala Sri Lanka",
+        "country_of_origin": "Hungary",
         "category": [
             "vps",
-            "email",
-            "dedicated server"
+            "dedicated",
+            "webspace",
+            "domains",
+            "email"
         ],
         "note": "",
         "location": [
-            "Budapest, Hungary"
+            "Budapest, Budapest, Hungary"
         ]
     },
     {
         "name": "HandyHost",
         "link": "https://handyhost.net/",
-        "country_of_origin": "Nawala Sri Lanka",
+        "country_of_origin": "Sri Lanka",
         "category": [
             "vps",
-            "webspace"
+            "webspace",
+            "email"
         ],
         "note": "",
         "location": [
-            "Germany",
-            "Finland",
-            "Canada"
+            "Tuusula, Uusimaa, Finland",
+            "Beauharnois, Quebec, Canada"
         ]
     },
     {
         "name": "Scaleway",
-        "link": "https://www.scaleway.com/en/",
-        "country_of_origin": "United Kingdom",
+        "link": "https://scaleway.com/",
+        "country_of_origin": "France",
         "category": [
             "vps",
-            "Cloud",
-            "dedicated server"
+            "dedicated"
         ],
         "note": "",
         "location": [
-            "Paris, France"
+            "Paris, Paris, France",
+            "Amsterdam, North Holland, The Netherlands",
+            "Warsaw, Mazovia, Poland"
         ]
     },
     {
